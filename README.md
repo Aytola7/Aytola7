@@ -2,7 +2,7 @@
 **Electronics Engineer & MSc Computer Science | Robotics Enthusiast & SMM Automation Developer**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aytola7&show_icons=true&theme=radical&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Aytola7&theme=radical&hide_border=true)
 ## About Me
 - 🎯 Passionate about robotics, drones, and automation systems.
 - 🌱 Currently developing scalable tools for social media automation (SMM) and high-volume workloads.
@@ -66,7 +66,7 @@ A Python-based simulator for multi-drone fleets with bulk command APIs; inspired
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytola7&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Aytola7&theme=radical&hide_border=true)
+
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aytola7&theme=radical)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Aytola7&theme=radical)
 
