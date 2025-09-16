@@ -66,6 +66,9 @@ A Python-based simulator for multi-drone fleets with bulk command APIs; inspired
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aytola7&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aytola7&theme=radical&hide_border=true)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aytola7&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Aytola7&theme=radical)
 
 ---
 
